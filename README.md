@@ -1,7 +1,8 @@
 # 👋Hi, i'm Soheil MV
-* My main programming language is C#, I started learning it from 2017 
+* I'm an Iranian programmer😎
+* My main programming language is C# and I'm very interested in it❤️‍🔥 
 * My hobbies are mostly coding😉
-* I have a basic knowledge of languages like Python, PHP, and Go, maybe in the future I will take a step to become a professional in them, but I have no plans for them at the moment😅
+* I am familiar with several other languages and I am a beginner in them, but among them I like <b>"Dart"</b>, maybe I will learn it in the near future😅
 
 #### Contact with me
 <p>
@@ -24,3 +25,66 @@
 |---|---|
 
 [![Profile views](https://komarev.com/ghpvc/?username=SoheilMV&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/antonkomarev/github-profile-views-counter)
+
+
+<div align="center">
+
+## Projects
+
+<table>
+<thead>
+	<tr>
+		<th>📘Project</th>
+		<th>⭐Stars</th>
+		<th>🤝Forks</th>
+		<th>👨‍💻Open Source</th>
+		<th>📄Description</th>
+	</tr>
+</thead>
+<tbody align="center">
+	<tr>
+        <td><a href="https://github.com/SoheilMV/dnlib.BAML"><b>dnlib.BAML</b></a></td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/SoheilMV/dnlib.BAML?style=flat-square&labelColor=343b41"></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/SoheilMV/dnlib.BAML?style=flat-square&labelColor=343b41"></td>
+        <td>✅</td>
+	    <td>(XAML/BAML) Editor with dnlib in .NET</td>
+	</tr>
+	<tr>
+        <td><a href="https://github.com/SoheilMV/MVThread"><b>MVThread</b></a></td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/SoheilMV/MVThread?style=flat-square&labelColor=343b41"></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/SoheilMV/MVThread?style=flat-square&labelColor=343b41"></td>
+        <td>✅</td>
+	    <td>Multi Threading/Tasking in .NET</td>
+	</tr>
+	<tr>
+        <td><a href="https://github.com/SoheilMV/MVNet"><b>MVNet</b></a></td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/SoheilMV/MVNet?style=flat-square&labelColor=343b41"></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/SoheilMV/MVNet?style=flat-square&labelColor=343b41"></td>
+        <td>✅</td>
+	    <td>HTTP and HTTPS Library</td>
+	</tr>
+	<tr>
+        <td><a href="https://github.com/SoheilMV/MVRegistry"><b>MVRegistry</b></a></td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/SoheilMV/MVRegistry?style=flat-square&labelColor=343b41"></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/SoheilMV/MVRegistry?style=flat-square&labelColor=343b41"></td>
+        <td>✅</td>
+	    <td>Easy to use registry</td>
+	</tr>
+	<tr>
+        <td><a href="https://github.com/SoheilMV/PicoFile"><b>PicoFile</b></a></td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/SoheilMV/PicoFile?style=flat-square&labelColor=343b41"></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/SoheilMV/PicoFile?style=flat-square&labelColor=343b41"></td>
+        <td>✅</td>
+	    <td>Picofile Direct Link Generator</td>
+	</tr>
+	<tr>
+        <td><a href="https://github.com/SoheilMV/MVScan"><b>MVScan</b></a></td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/SoheilMV/MVScan?style=flat-square&labelColor=343b41"></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/SoheilMV/MVScan?style=flat-square&labelColor=343b41"></td>
+        <td>✅</td>
+	    <td>Multi port scanner</td>
+	</tr>
+</tbody>
+</table>
+
+</div>

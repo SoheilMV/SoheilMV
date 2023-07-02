@@ -2,9 +2,9 @@
 * I'm an Iranian programmer😎
 * My main programming language is C# and I'm very interested in it❤️‍🔥 
 * My hobbies are mostly coding😉
-* I am familiar with several other languages and I am a beginner in them, but among them I like <b>"Dart"</b>, maybe I will learn it in the near future😅
+* I'm familiar with several other languages and I'm a beginner in them, but among them I like **Flutter** and I'm learning it🙂
 
-#### Contact with me
+## ☎️Contact with me
 <p>
 <a href="https://t.me/mvsoft_ir" target="_blank">
 <img alt="Telegram" width="40" height="40" src="images/telegram.svg"/>
@@ -18,6 +18,11 @@
 <img alt="Twitter" width="40" height="40" src="images/twitter.svg"/>
 </a>
 </p>
+
+## 💰Donate
+If you like the projects, donate to the developer. Thank you!    
+> **Bitcoin: 17FDPwVhFTVmxyCDWXVQgx3t6xyubj3Wf8**    
+> **USDT-TRC20 : TYwxBH1dqZJQcdKuoCAYY5tGpi8vH8nj21**    
 
 <hr>
 

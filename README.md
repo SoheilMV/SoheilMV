@@ -97,6 +97,13 @@ If you like the projects, donate to the developer. Thank you!
 	    <td>Easy Drag & Move in Windows Forms</td>
 	</tr>
 	<tr>
+        <td><a href="https://github.com/SoheilMV/ConsolePlus"><b>ConsolePlus</b></a></td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/SoheilMV/ConsolePlus?style=flat-square&labelColor=343b41"></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/SoheilMV/ConsolePlus?style=flat-square&labelColor=343b41"></td>
+        <td>🟢</td>
+	    <td>Rewrite/Edit line in console application</td>
+	</tr>
+	<tr>
         <td><a href="https://github.com/SoheilMV/PicoFile"><b>PicoFile</b></a></td>
 		<td><img alt="Stars" src="https://img.shields.io/github/stars/SoheilMV/PicoFile?style=flat-square&labelColor=343b41"></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/SoheilMV/PicoFile?style=flat-square&labelColor=343b41"></td>

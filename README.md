@@ -47,6 +47,13 @@ If you like the projects, donate to the developer. Thank you!
 	</tr>
 </thead>
 <tbody align="center">
+    <tr>
+        <td><a href="https://github.com/SoheilMV/EmbedLibrary"><b>EmbedLibrary</b></a></td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/SoheilMV/EmbedLibrary?style=flat-square&labelColor=343b41"></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/SoheilMV/EmbedLibrary?style=flat-square&labelColor=343b41"></td>
+        <td>🟢</td>
+	    <td>Embed references as resources in .NET</td>
+	</tr>
 	<tr>
         <td><a href="https://github.com/SoheilMV/dnlib.BAML"><b>dnlib.BAML</b></a></td>
 		<td><img alt="Stars" src="https://img.shields.io/github/stars/SoheilMV/dnlib.BAML?style=flat-square&labelColor=343b41"></td>
@@ -116,13 +123,6 @@ If you like the projects, donate to the developer. Thank you!
         <td><img alt="Forks" src="https://img.shields.io/github/forks/SoheilMV/Instagram-Encryption?style=flat-square&labelColor=343b41"></td>
         <td>🔴</td>
 	    <td>Instagram web encryption algorithm</td>
-	</tr>
-	<tr>
-        <td><a href="https://github.com/SoheilMV/EmbedLibrary"><b>EmbedLibrary</b></a></td>
-		<td><img alt="Stars" src="https://img.shields.io/github/stars/SoheilMV/EmbedLibrary?style=flat-square&labelColor=343b41"></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/SoheilMV/EmbedLibrary?style=flat-square&labelColor=343b41"></td>
-        <td>🔴</td>
-	    <td>Embed references as resources in .NET</td>
 	</tr>
 	<tr>
         <td><a href="https://github.com/SoheilMV/PCryptSharp"><b>PCryptSharp</b></a></td>

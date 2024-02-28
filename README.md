@@ -56,7 +56,7 @@ Energize Dev: Buy a Coffee☕️. Many Thanks!
 	</tr>
 	<tr>
         <td><a href="https://github.com/SoheilMV/dnlib.BAML"><b>dnlib.BAML</b></a></td>
-        <td>(XAML/BAML) Editor with dnlib in .NET</td>
+        <td>BAML Editor with dnlib in .NET</td>
         <td>🟢</td>
         <td>✔️</td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/SoheilMV/dnlib.BAML?style=flat-square&labelColor=343b41"></td>
@@ -64,7 +64,7 @@ Energize Dev: Buy a Coffee☕️. Many Thanks!
 	</tr>
 	<tr>
         <td><a href="https://github.com/SoheilMV/MVThread"><b>MVThread</b></a></td>
-        <td>Multi Threading/Tasking in .NET</td>
+        <td>Parallelization in .NET</td>
         <td>🟢</td>
         <td>✔️</td>
 		<td><img alt="Stars" src="https://img.shields.io/github/stars/SoheilMV/MVThread?style=flat-square&labelColor=343b41"></td>
